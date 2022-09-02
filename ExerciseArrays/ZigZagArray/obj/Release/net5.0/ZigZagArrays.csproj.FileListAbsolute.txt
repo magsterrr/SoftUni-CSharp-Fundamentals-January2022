@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/bin/Release/net5.0/ZigZagArrays.deps.json
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/bin/Release/net5.0/ZigZagArrays.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/bin/Release/net5.0/ZigZagArrays.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/bin/Release/net5.0/ZigZagArrays.dll
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/bin/Release/net5.0/ref/ZigZagArrays.dll
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/bin/Release/net5.0/ZigZagArrays.pdb
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.dll
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ref/ZigZagArrays.dll
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.pdb
+/Users/maggie/Projects/ExerciseArrays/ZigZagArray/obj/Release/net5.0/ZigZagArrays.genruntimeconfig.cache

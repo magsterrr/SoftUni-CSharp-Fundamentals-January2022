@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FinalExam/MessagesManager/bin/Debug/net5.0/MessagesManager.deps.json
+/Users/maggie/Projects/FinalExam/MessagesManager/bin/Debug/net5.0/MessagesManager.runtimeconfig.json
+/Users/maggie/Projects/FinalExam/MessagesManager/bin/Debug/net5.0/MessagesManager.runtimeconfig.dev.json
+/Users/maggie/Projects/FinalExam/MessagesManager/bin/Debug/net5.0/MessagesManager.dll
+/Users/maggie/Projects/FinalExam/MessagesManager/bin/Debug/net5.0/ref/MessagesManager.dll
+/Users/maggie/Projects/FinalExam/MessagesManager/bin/Debug/net5.0/MessagesManager.pdb
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.AssemblyInfo.cs
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.dll
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/ref/MessagesManager.dll
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.pdb
+/Users/maggie/Projects/FinalExam/MessagesManager/obj/Debug/net5.0/MessagesManager.genruntimeconfig.cache

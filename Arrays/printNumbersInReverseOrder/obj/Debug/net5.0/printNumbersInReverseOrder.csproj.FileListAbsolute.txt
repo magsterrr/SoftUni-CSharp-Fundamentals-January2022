@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/bin/Debug/net5.0/printNumbersInReverseOrder.deps.json
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/bin/Debug/net5.0/printNumbersInReverseOrder.runtimeconfig.json
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/bin/Debug/net5.0/printNumbersInReverseOrder.runtimeconfig.dev.json
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/bin/Debug/net5.0/printNumbersInReverseOrder.dll
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/bin/Debug/net5.0/ref/printNumbersInReverseOrder.dll
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/bin/Debug/net5.0/printNumbersInReverseOrder.pdb
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.AssemblyInfo.cs
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.dll
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/ref/printNumbersInReverseOrder.dll
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.pdb
+/Users/maggie/Projects/Arrays/printNumbersInReverseOrder/obj/Debug/net5.0/printNumbersInReverseOrder.genruntimeconfig.cache

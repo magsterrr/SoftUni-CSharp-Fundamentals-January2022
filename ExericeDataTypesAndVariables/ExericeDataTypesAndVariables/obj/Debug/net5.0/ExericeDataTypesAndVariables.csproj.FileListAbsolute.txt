@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/bin/Debug/net5.0/ExericeDataTypesAndVariables.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/bin/Debug/net5.0/ExericeDataTypesAndVariables.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/bin/Debug/net5.0/ExericeDataTypesAndVariables.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/bin/Debug/net5.0/ExericeDataTypesAndVariables.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/bin/Debug/net5.0/ref/ExericeDataTypesAndVariables.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/bin/Debug/net5.0/ExericeDataTypesAndVariables.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ref/ExericeDataTypesAndVariables.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/ExericeDataTypesAndVariables/obj/Debug/net5.0/ExericeDataTypesAndVariables.genruntimeconfig.cache

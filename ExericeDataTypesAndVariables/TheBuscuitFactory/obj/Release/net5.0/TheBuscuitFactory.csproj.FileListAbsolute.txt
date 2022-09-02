@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/bin/Release/net5.0/TheBuscuitFactory.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/bin/Release/net5.0/TheBuscuitFactory.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/bin/Release/net5.0/TheBuscuitFactory.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/bin/Release/net5.0/TheBuscuitFactory.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/bin/Release/net5.0/ref/TheBuscuitFactory.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/bin/Release/net5.0/TheBuscuitFactory.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/ref/TheBuscuitFactory.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/TheBuscuitFactory/obj/Release/net5.0/TheBuscuitFactory.genruntimeconfig.cache

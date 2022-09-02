@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/bin/Release/net5.0/Elevator.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/bin/Release/net5.0/Elevator.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/bin/Release/net5.0/Elevator.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/bin/Release/net5.0/Elevator.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/bin/Release/net5.0/ref/Elevator.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/bin/Release/net5.0/Elevator.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/ref/Elevator.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Elevator/obj/Release/net5.0/Elevator.genruntimeconfig.cache

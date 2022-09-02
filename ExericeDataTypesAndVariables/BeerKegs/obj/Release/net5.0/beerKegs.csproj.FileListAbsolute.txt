@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/bin/Release/net5.0/beerKegs.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/bin/Release/net5.0/beerKegs.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/bin/Release/net5.0/beerKegs.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/bin/Release/net5.0/beerKegs.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/bin/Release/net5.0/ref/beerKegs.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/bin/Release/net5.0/beerKegs.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/ref/beerKegs.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/beerKegs/obj/Release/net5.0/beerKegs.genruntimeconfig.cache

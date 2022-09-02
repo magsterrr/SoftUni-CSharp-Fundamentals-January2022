@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/bin/Debug/net5.0/MaxSequenceOfEqualElements.deps.json
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/bin/Debug/net5.0/MaxSequenceOfEqualElements.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/bin/Debug/net5.0/MaxSequenceOfEqualElements.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/bin/Debug/net5.0/MaxSequenceOfEqualElements.dll
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/bin/Debug/net5.0/ref/MaxSequenceOfEqualElements.dll
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/bin/Debug/net5.0/MaxSequenceOfEqualElements.pdb
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.dll
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/ref/MaxSequenceOfEqualElements.dll
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.pdb
+/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/obj/Debug/net5.0/MaxSequenceOfEqualElements.genruntimeconfig.cache

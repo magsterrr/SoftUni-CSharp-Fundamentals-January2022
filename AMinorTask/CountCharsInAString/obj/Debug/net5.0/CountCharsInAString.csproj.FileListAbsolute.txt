@@ -1,0 +1,15 @@
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/bin/Debug/net5.0/CountCharsInAString.deps.json
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/bin/Debug/net5.0/CountCharsInAString.runtimeconfig.json
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/bin/Debug/net5.0/CountCharsInAString.runtimeconfig.dev.json
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/bin/Debug/net5.0/CountCharsInAString.dll
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/bin/Debug/net5.0/ref/CountCharsInAString.dll
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/bin/Debug/net5.0/CountCharsInAString.pdb
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.csproj.AssemblyReference.cache
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.AssemblyInfoInputs.cache
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.AssemblyInfo.cs
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.dll
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/ref/CountCharsInAString.dll
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.pdb
+/Users/maggie/Projects/AMinorTask/CountCharsInAString/obj/Debug/net5.0/CountCharsInAString.genruntimeconfig.cache

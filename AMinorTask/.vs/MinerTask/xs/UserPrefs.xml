@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{ADCD8B33-7E3B-4E30-B4D0-1BD354693721}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinerTask" expanded="True" selected="True">
+            <Node name="AssociativeArrays" expanded="True" />
+            <Node name="Courses" expanded="True" />
+            <Node name="LegendaryFarming" expanded="True" />
+            <Node name="SoftUniParking" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LegendaryFarming FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Courses FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SoftUniParking FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AssociativeArrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

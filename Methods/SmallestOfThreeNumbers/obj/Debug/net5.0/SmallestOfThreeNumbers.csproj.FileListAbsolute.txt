@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/bin/Debug/net5.0/SmallestOfThreeNumbers.deps.json
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/bin/Debug/net5.0/SmallestOfThreeNumbers.runtimeconfig.json
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/bin/Debug/net5.0/SmallestOfThreeNumbers.runtimeconfig.dev.json
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/bin/Debug/net5.0/SmallestOfThreeNumbers.dll
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/bin/Debug/net5.0/ref/SmallestOfThreeNumbers.dll
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/bin/Debug/net5.0/SmallestOfThreeNumbers.pdb
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.AssemblyInfo.cs
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.dll
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/ref/SmallestOfThreeNumbers.dll
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.pdb
+/Users/maggie/Projects/Methods/SmallestOfThreeNumbers/obj/Debug/net5.0/SmallestOfThreeNumbers.genruntimeconfig.cache

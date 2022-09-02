@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/bin/Release/net5.0/PartOfTheASCIITable.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/bin/Release/net5.0/PartOfTheASCIITable.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/bin/Release/net5.0/PartOfTheASCIITable.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/bin/Release/net5.0/PartOfTheASCIITable.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/bin/Release/net5.0/ref/PartOfTheASCIITable.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/bin/Release/net5.0/PartOfTheASCIITable.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/ref/PartOfTheASCIITable.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/PartOfTheASCIITable/obj/Release/net5.0/PartOfTheASCIITable.genruntimeconfig.cache

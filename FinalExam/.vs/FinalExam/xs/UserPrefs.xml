@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C7CE4E3D-AA53-4FCA-96A4-A83BB84B6C83}|Default">
+  <MonoDevelop.Ide.ItemProperties.MessagesManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessagesManager/Program.cs">
+    <Files>
+      <File FileName="MessagesManager/Program.cs" Line="84" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalExam" expanded="True">
+            <Node name="MessagesManager" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

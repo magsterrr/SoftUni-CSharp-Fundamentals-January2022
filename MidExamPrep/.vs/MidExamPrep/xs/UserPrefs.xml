@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{1070E8DB-D4D6-4AB2-81B4-E7140EB30035}|Default">
+  <MonoDevelop.Ide.ItemProperties.ManOWar FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ShootForTheWin FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MuOnline/Program.cs">
+    <Files>
+      <File FileName="ManOWar/Program.cs" Line="99" Column="2" />
+      <File FileName="MuOnline/Program.cs" Line="74" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidExamPrep" expanded="True">
+            <Node name="ManOWar" expanded="True" />
+            <Node name="MemoryGame" expanded="True" />
+            <Node name="MuOnline" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ShootForTheWin" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ExericeDataTypesAndVariables/sumDigits/Program.cs" line="14" column="16" endLine="14" endColumn="25" offsetX="-1" offsetY="-1" expression="remainder" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/sumDigits/Program.cs" line="16" column="16" endLine="16" endColumn="17" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MuOnline FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MemoryGame FirstBuild="True" />
+</Properties>

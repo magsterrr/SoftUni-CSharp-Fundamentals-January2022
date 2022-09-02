@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FEE9B694-B46D-4494-8C79-A00E39EF0B52}|Default">
+  <MonoDevelop.Ide.ItemProperties.StringExplosion FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LettersChangeNumbers/LettersChangeNumbers.cs">
+    <Files>
+      <File FileName="TextProcessing/Program.cs" Line="23" Column="33" />
+      <File FileName="StringExplosion/Program.cs" Line="54" Column="2" />
+      <File FileName="LettersChangeNumbers/Program.cs" Line="78" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TextProcessing" expanded="True" selected="True">
+            <Node name="LettersChangeNumbers" expanded="True" />
+            <Node name="StringExplosion" expanded="True" />
+            <Node name="TextProcessing" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TextProcessing FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LettersChangeNumbers FirstBuild="True" />
+</Properties>

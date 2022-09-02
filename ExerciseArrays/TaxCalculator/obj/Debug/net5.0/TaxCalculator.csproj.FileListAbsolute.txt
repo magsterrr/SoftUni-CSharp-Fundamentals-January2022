@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/bin/Debug/net5.0/TaxCalculator.deps.json
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/bin/Debug/net5.0/TaxCalculator.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/bin/Debug/net5.0/TaxCalculator.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/bin/Debug/net5.0/TaxCalculator.dll
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/bin/Debug/net5.0/ref/TaxCalculator.dll
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/bin/Debug/net5.0/TaxCalculator.pdb
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.dll
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/ref/TaxCalculator.dll
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.pdb
+/Users/maggie/Projects/ExerciseArrays/TaxCalculator/obj/Debug/net5.0/TaxCalculator.genruntimeconfig.cache

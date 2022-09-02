@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BD38E8C7-B06B-45BF-B816-BFDB979EAF7D}|Default">
+  <MonoDevelop.Ide.ItemProperties.PlantDiscovery FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DestinationMapper FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExamPreparationFinalFundamentals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPreparationFinalFundamentals" expanded="True">
+            <Node name="DestinationMapper" expanded="True" />
+            <Node name="ExamPreparationFinalFundamentals" expanded="True" />
+            <Node name="PlantDiscovery" expanded="True">
+              <Node name="PlantDiscovery.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

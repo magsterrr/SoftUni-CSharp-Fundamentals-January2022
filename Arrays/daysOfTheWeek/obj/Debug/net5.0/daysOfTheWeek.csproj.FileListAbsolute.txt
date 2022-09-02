@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Arrays/daysOfTheWeek/bin/Debug/net5.0/daysOfTheWeek.deps.json
+/Users/maggie/Projects/Arrays/daysOfTheWeek/bin/Debug/net5.0/daysOfTheWeek.runtimeconfig.json
+/Users/maggie/Projects/Arrays/daysOfTheWeek/bin/Debug/net5.0/daysOfTheWeek.runtimeconfig.dev.json
+/Users/maggie/Projects/Arrays/daysOfTheWeek/bin/Debug/net5.0/daysOfTheWeek.dll
+/Users/maggie/Projects/Arrays/daysOfTheWeek/bin/Debug/net5.0/ref/daysOfTheWeek.dll
+/Users/maggie/Projects/Arrays/daysOfTheWeek/bin/Debug/net5.0/daysOfTheWeek.pdb
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.AssemblyInfo.cs
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.dll
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/ref/daysOfTheWeek.dll
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.pdb
+/Users/maggie/Projects/Arrays/daysOfTheWeek/obj/Debug/net5.0/daysOfTheWeek.genruntimeconfig.cache

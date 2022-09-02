@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExerciseArrays/EqualSums/bin/Release/net5.0/EqualSums.deps.json
+/Users/maggie/Projects/ExerciseArrays/EqualSums/bin/Release/net5.0/EqualSums.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/EqualSums/bin/Release/net5.0/EqualSums.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/EqualSums/bin/Release/net5.0/EqualSums.dll
+/Users/maggie/Projects/ExerciseArrays/EqualSums/bin/Release/net5.0/ref/EqualSums.dll
+/Users/maggie/Projects/ExerciseArrays/EqualSums/bin/Release/net5.0/EqualSums.pdb
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.dll
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/ref/EqualSums.dll
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.pdb
+/Users/maggie/Projects/ExerciseArrays/EqualSums/obj/Release/net5.0/EqualSums.genruntimeconfig.cache

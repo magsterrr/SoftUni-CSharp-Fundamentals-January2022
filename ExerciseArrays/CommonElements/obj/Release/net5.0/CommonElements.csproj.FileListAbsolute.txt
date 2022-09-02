@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExerciseArrays/CommonElements/bin/Release/net5.0/CommonElements.deps.json
+/Users/maggie/Projects/ExerciseArrays/CommonElements/bin/Release/net5.0/CommonElements.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/CommonElements/bin/Release/net5.0/CommonElements.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/CommonElements/bin/Release/net5.0/CommonElements.dll
+/Users/maggie/Projects/ExerciseArrays/CommonElements/bin/Release/net5.0/ref/CommonElements.dll
+/Users/maggie/Projects/ExerciseArrays/CommonElements/bin/Release/net5.0/CommonElements.pdb
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.dll
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/ref/CommonElements.dll
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.pdb
+/Users/maggie/Projects/ExerciseArrays/CommonElements/obj/Release/net5.0/CommonElements.genruntimeconfig.cache

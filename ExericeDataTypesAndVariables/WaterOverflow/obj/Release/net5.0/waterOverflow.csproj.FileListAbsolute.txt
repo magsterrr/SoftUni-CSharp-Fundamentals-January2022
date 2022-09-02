@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/bin/Release/net5.0/waterOverflow.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/bin/Release/net5.0/waterOverflow.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/bin/Release/net5.0/waterOverflow.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/bin/Release/net5.0/waterOverflow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/bin/Release/net5.0/ref/waterOverflow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/bin/Release/net5.0/waterOverflow.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/ref/waterOverflow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/obj/Release/net5.0/waterOverflow.genruntimeconfig.cache

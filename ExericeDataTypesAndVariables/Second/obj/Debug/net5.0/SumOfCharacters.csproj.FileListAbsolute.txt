@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/bin/Debug/net5.0/SumOfCharacters.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/bin/Debug/net5.0/SumOfCharacters.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/bin/Debug/net5.0/SumOfCharacters.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/bin/Debug/net5.0/SumOfCharacters.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/bin/Debug/net5.0/ref/SumOfCharacters.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/bin/Debug/net5.0/SumOfCharacters.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/ref/SumOfCharacters.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Second/obj/Debug/net5.0/SumOfCharacters.genruntimeconfig.cache

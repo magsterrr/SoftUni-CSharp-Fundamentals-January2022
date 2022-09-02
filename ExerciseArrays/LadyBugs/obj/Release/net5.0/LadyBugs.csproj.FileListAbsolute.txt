@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/bin/Release/net5.0/LadyBugs.deps.json
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/bin/Release/net5.0/LadyBugs.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/bin/Release/net5.0/LadyBugs.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/bin/Release/net5.0/LadyBugs.dll
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/bin/Release/net5.0/ref/LadyBugs.dll
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/bin/Release/net5.0/LadyBugs.pdb
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.dll
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/ref/LadyBugs.dll
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.pdb
+/Users/maggie/Projects/ExerciseArrays/LadyBugs/obj/Release/net5.0/LadyBugs.genruntimeconfig.cache

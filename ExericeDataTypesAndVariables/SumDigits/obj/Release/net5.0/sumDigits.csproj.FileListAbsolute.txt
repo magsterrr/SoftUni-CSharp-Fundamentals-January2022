@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/bin/Release/net5.0/sumDigits.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/bin/Release/net5.0/sumDigits.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/bin/Release/net5.0/sumDigits.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/bin/Release/net5.0/sumDigits.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/bin/Release/net5.0/ref/sumDigits.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/bin/Release/net5.0/sumDigits.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/ref/sumDigits.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/sumDigits/obj/Release/net5.0/sumDigits.genruntimeconfig.cache

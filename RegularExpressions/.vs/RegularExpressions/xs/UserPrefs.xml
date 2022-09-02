@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BE7D785B-3676-4826-98FB-97F43CF11680}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarEnigma/StarEnigma.cs">
+    <Files>
+      <File FileName="RegularExpressions/Program.cs" Line="57" Column="2" />
+      <File FileName="SoftUniBarIncome/Program.cs" Line="35" Column="2" />
+      <File FileName="StarEnigma/Program.cs" Line="83" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegularExpressions" expanded="True" selected="True">
+            <Node name="RegularExpressions" expanded="True" />
+            <Node name="SoftUniBarIncome" expanded="True" />
+            <Node name="StarEnigma" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StarEnigma FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SoftUniBarIncome FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RegularExpressions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

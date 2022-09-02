@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F84D73FE-E5F5-4106-B625-44B4EA91B912}|Default">
+  <MonoDevelop.Ide.ItemProperties.TeamWorkProjects FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectsAndClasses/Students.cs">
+    <Files>
+      <File FileName="ObjectsAndClasses/Program.cs" Line="64" Column="2" />
+      <File FileName="TeamWorkProjects/Program.cs" Line="199" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectsAndClasses" expanded="True">
+            <Node name="Students" expanded="True" selected="True" />
+            <Node name="TeamWorkProjects" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Students FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

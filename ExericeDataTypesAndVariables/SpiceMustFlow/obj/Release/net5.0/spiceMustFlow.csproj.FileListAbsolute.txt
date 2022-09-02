@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/bin/Release/net5.0/spiceMustFlow.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/bin/Release/net5.0/spiceMustFlow.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/bin/Release/net5.0/spiceMustFlow.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/bin/Release/net5.0/spiceMustFlow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/bin/Release/net5.0/ref/spiceMustFlow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/bin/Release/net5.0/spiceMustFlow.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/ref/spiceMustFlow.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/spiceMustFlow/obj/Release/net5.0/spiceMustFlow.genruntimeconfig.cache

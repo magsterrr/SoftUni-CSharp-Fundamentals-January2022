@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{009B9DD4-8E11-4A91-8320-08057D652EEC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MaxSequenceOfEqualElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TheAngryCat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ZigZagArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EqualSums PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculator/Program.cs">
+    <Files>
+      <File FileName="TaxCalculator/Program.cs" Line="53" Column="6" />
+      <File FileName="CommonElements/CommonElements.cs" />
+      <File FileName="TheAngryCat/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseArrays" expanded="True">
+            <Node name="ArrayRotation" expanded="True" />
+            <Node name="LadyBugs" expanded="True" />
+            <Node name="TaxCalculator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaxCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VowelsCountMethod FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MagicSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ExericeDataTypesAndVariables/sumDigits/Program.cs" line="14" column="16" endLine="14" endColumn="25" offsetX="-1" offsetY="-1" expression="remainder" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/sumDigits/Program.cs" line="16" column="16" endLine="16" endColumn="17" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Train PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maggie/Projects/ExerciseArrays/MaxSequenceOfEqualElements/MaxSequenceOfEqualElements.cs" relfile="MaxSequenceOfEqualElements/MaxSequenceOfEqualElements.cs" line="23" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ExerciseArrays/MagicSum/MagicSum.cs" relfile="MagicSum/MagicSum.cs" line="23" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ExerciseArrays/MagicSum/MagicSum.cs" relfile="MagicSum/MagicSum.cs" line="21" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ExerciseArrays/TheAngryCat/Program.cs" relfile="TheAngryCat/Program.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CommonElements PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{99D34190-AF7D-4D79-BAFF-F1F811F0DEB6}|Default">
+  <MonoDevelop.Ide.ItemProperties.equalArrays FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.condenseArrayToNumber FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.daysOfTheWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.roundingNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.printNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.reverseArrayOfStrings FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="daysOfTheWeek/daysOfTheWeek.cs">
+    <Files>
+      <File FileName="equalArrays/equalArrays.cs" Line="17" Column="35" />
+      <File FileName="daysOfTheWeek/daysOfTheWeek.cs" Line="26" Column="1" />
+      <File FileName="condenseArrayToNumber/condenseArrayToNumber.cs" Line="11" Column="39" />
+      <File FileName="sumOfEvenNumbers/sumOfEvenNumbers.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays" expanded="True">
+            <Node name="condenseArrayToNumber" expanded="True" />
+            <Node name="daysOfTheWeek" expanded="True">
+              <Node name="daysOfTheWeek.cs" selected="True" />
+            </Node>
+            <Node name="equalArrays" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>model</Value>
+          <Value>currVolume</Value>
+          <Value>bestKegVolume</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sumOfEvenNumbers FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ExericeDataTypesAndVariables/sumDigits/Program.cs" line="14" column="16" endLine="14" endColumn="25" offsetX="-1" offsetY="-1" expression="remainder" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/sumDigits/Program.cs" line="16" column="16" endLine="16" endColumn="17" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+    <Watch file="../../../../ExericeDataTypesAndVariables/beerKegs/beerKegs.cs" line="30" column="33" endLine="30" endColumn="38" offsetX="-1" offsetY="-1" expression="model" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.evenAndOddSubstraction FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

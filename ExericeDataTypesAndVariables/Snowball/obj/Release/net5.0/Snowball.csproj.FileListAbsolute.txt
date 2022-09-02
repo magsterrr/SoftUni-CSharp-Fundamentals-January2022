@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/bin/Release/net5.0/Snowball.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/bin/Release/net5.0/Snowball.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/bin/Release/net5.0/Snowball.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/bin/Release/net5.0/Snowball.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/bin/Release/net5.0/ref/Snowball.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/bin/Release/net5.0/Snowball.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/ref/Snowball.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Snowball/obj/Release/net5.0/Snowball.genruntimeconfig.cache

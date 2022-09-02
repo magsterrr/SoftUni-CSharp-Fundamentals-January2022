@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{A6CC8663-1FDD-4712-8FFB-01323C69FA02}|Default">
+  <MonoDevelop.Ide.ItemProperties.IntegerOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.waterOverflow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TheBuscuitFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sumDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PartOfTheASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheBuscuitFactory/Program.cs">
+    <Files>
+      <File FileName="beerKegs/beerKegs.cs" Line="28" Column="14" />
+      <File FileName="spiceMustFlow/spiceMustFlow.cs" Line="1" Column="1" />
+      <File FileName="TheBuscuitFactory/Program.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>model</Value>
+          <Value>currVolume</Value>
+          <Value>bestKegVolume</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.spiceMustFlow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Pokemon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../sumDigits/Program.cs" line="14" column="16" endLine="14" endColumn="25" offsetX="-1" offsetY="-1" expression="remainder" liveUpdate="False" />
+    <Watch file="../../../sumDigits/Program.cs" line="16" column="16" endLine="16" endColumn="17" offsetX="-1" offsetY="-1" expression="n" liveUpdate="False" />
+    <Watch file="../../../beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+    <Watch file="../../../beerKegs/beerKegs.cs" line="21" column="27" endLine="21" endColumn="77" offsetX="-1" offsetY="-1" expression="powRadius" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.SumOfCharacters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Snowball PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.beerKegs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/waterOverflow.cs" relfile="waterOverflow/waterOverflow.cs" line="17" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ExericeDataTypesAndVariables/waterOverflow/waterOverflow.cs" relfile="waterOverflow/waterOverflow.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

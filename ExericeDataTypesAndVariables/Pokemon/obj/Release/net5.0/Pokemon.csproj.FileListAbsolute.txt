@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/bin/Release/net5.0/Pokemon.deps.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/bin/Release/net5.0/Pokemon.runtimeconfig.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/bin/Release/net5.0/Pokemon.runtimeconfig.dev.json
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/bin/Release/net5.0/Pokemon.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/bin/Release/net5.0/ref/Pokemon.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/bin/Release/net5.0/Pokemon.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.AssemblyInfo.cs
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/ref/Pokemon.dll
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.pdb
+/Users/maggie/Projects/ExericeDataTypesAndVariables/Pokemon/obj/Release/net5.0/Pokemon.genruntimeconfig.cache

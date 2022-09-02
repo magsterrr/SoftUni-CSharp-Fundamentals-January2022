@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/bin/Release/net5.0/TheAngryCat.deps.json
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/bin/Release/net5.0/TheAngryCat.runtimeconfig.json
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/bin/Release/net5.0/TheAngryCat.runtimeconfig.dev.json
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/bin/Release/net5.0/TheAngryCat.dll
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/bin/Release/net5.0/ref/TheAngryCat.dll
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/bin/Release/net5.0/TheAngryCat.pdb
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.AssemblyInfo.cs
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.dll
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/ref/TheAngryCat.dll
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.pdb
+/Users/maggie/Projects/ExerciseArrays/TheAngryCat/obj/Release/net5.0/TheAngryCat.genruntimeconfig.cache
